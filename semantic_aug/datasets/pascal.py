@@ -11,7 +11,7 @@ from PIL import Image
 from collections import defaultdict
 
 
-PASCAL_DIR = "/projects/rsalakhugroup/datasets/pascal"
+PASCAL_DIR = "/workspace/projects/other/ada-fusion/data/pascal/VOCdevkit/VOC2012"
 
 TRAIN_IMAGE_SET = os.path.join(
     PASCAL_DIR, "ImageSets/Segmentation/train.txt")

@@ -1,7 +1,9 @@
 # Adaptive Data Augmentation with Diffusion Models and LLMs
 
 ## Setup
-
+Run next commands:
+`chmod +x setup.sh`
+`./setup.sh`
 
 
 ## Acknowledgments
